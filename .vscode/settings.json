@@ -1,0 +1,9 @@
+{
+  "files.exclude": {
+    ".vscode": true,
+    // "dist": true,
+    "node_modules": true,
+    // ".babelrc": true,
+    "package-lock.json": true,
+  }
+}
